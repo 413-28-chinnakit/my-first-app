@@ -1,4 +1,4 @@
-import steamlit as st
+import streamlit as st
 
 # 1. หัวข้อใหญ่: แนะนำตัวหลักและชื่อเจ้าของเว็บ
 st.title(" my dlgital profile")
